@@ -16,3 +16,6 @@ Windows:
 Linux:
 - Latest version of Python.
 - Linux recent version.
+
+⚠️・Terms of use:
+Euro - Private has been developed solely for educational purposes. This project has been created with good intentions and is intended for personal use only. By choosing to use Euro - Private, you acknowledge and accept full responsibility for any consequences that may result from your actions.
